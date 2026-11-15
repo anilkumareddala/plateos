@@ -1,4 +1,4 @@
-# PlateOS v4 — Back Office Operations (Menu, People, Manager Controls)
+# PlateOS — Back Office Operations (Menu, People, Manager Controls)
 
 **A single, self-contained interactive restaurant SaaS prototype.** Extract the release ZIP and open `index.html` in a modern browser. No install or server is needed to explore the screens. The implementation builds on the v3 omnichannel queue, KDS, floor/device views, POS and kiosk. This is a **local demo**, not a deployed multi-tenant backend or production payment/payroll system.
 
