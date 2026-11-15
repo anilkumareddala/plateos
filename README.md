@@ -2,7 +2,7 @@
 
 **A single, self-contained interactive restaurant SaaS prototype.** Extract the release ZIP and open `index.html` in a modern browser. No install or server is needed to explore the screens. The implementation builds on the v3 omnichannel queue, KDS, floor/device views, POS and kiosk. This is a **local demo**, not a deployed multi-tenant backend or production payment/payroll system.
 
-## What's new in v4
+## What's new
 
 ### Dynamic menu manager
 
@@ -195,7 +195,7 @@ Run `python test_omni.py` if Chromium and Playwright are installed. It covers ch
 
 ---
 
-## PlateOS v5 — Analytics, reporting & Owner Mobile
+## PlateOS — Analytics, reporting & Owner Mobile
 
 Open **Reports & analytics** for time-filtered gross/net/tax sales, hourly trends, cash/card, channel/category/employee attribution, product mix, voids, discounts and shift cash variance. The **Custom builder** allows saved presets and genuine offline CSV/`.xlsx` downloads. Configure a bookkeeper's email and cadence (stored as a preference; the browser prototype does *not* send mail). **X / Z & batch** provides read-only X reports and simulated closeout/batch records. **Owner mobile** displays an interactive web-based phone viewport with today’s sample pulse across owner-accessible branches. An **Ask AI** bar answers supported financial questions via deterministic rules over the local demo ledger; no external LLM is connected.
 
